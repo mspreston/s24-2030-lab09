@@ -5,7 +5,7 @@ Tuesday, April 9th
 **Due**: By the end of the day (Monday, April 15th)
 
 **Instructions**  
-Write a program that prompts the user to enter 10 even numbers, ignoring any odd numbers entered, then prints out the array neatly.
+Write a program that prompts the user to enter 10 odd numbers, ignoring any even numbers entered, then prints out the array neatly.
 
 You should satisfy the following requirements:
 - Write a *function* that returns a *Boolean* (true if the passed parameter is an even number, and false if the number passed is odd).
